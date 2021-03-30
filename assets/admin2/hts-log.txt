@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Feb 2020 23:26:11 at http://ableproadmin.com/bootstrap/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ableproadmin.com/bootstrap/default/index.html -O1 "D:\reza\Vidio\crak\skdksadkjajd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:37:27	Warning: 	Retry after error 502 (Server Hangup) at link ableproadmin.com/bootstrap/default/help-ticket.html (from ableproadmin.com/bootstrap/default/index.html)
+23:39:12	Warning: 	Retry after error 502 (Server Hangup) at link ableproadmin.com/bootstrap/default/form-select.html (from ableproadmin.com/bootstrap/default/index.html)
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem8YaGs126MiZpBA-UFWJ0bbck.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem8YaGs126MiZpBA-UFUZ0bbck.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem8YaGs126MiZpBA-UFWZ0bbck.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem8YaGs126MiZpBA-UFVp0bbck.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem8YaGs126MiZpBA-UFWp0bbck.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem8YaGs126MiZpBA-UFW50bbck.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/opensans/mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2
+23:41:38	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/fa-brands-400.woff2
+23:41:39	Warning: 	Retry after error -4 (Connect Error) at link ableproadmin.com/bootstrap/default/assets/fonts/fa-regular-400.woff2 (from ableproadmin.com/bootstrap/default/assets/css/style.css)
+23:41:39	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/fa-solid-900.woff2
+23:41:40	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/cryptocoins.woff2
+23:41:41	Warning: 	Retry after error -4 (Incorrect length (91489 Bytes, 372563 expected)) at link ableproadmin.com/bootstrap/default/assets/images/profile/bg-3.jpg (from ableproadmin.com/bootstrap/default/user-profile.html)
+23:41:41	Warning: 	Retry after error 502 (Server Hangup) at link ableproadmin.com/bootstrap/default/assets/images/widget/GERMANY.jpg (from ableproadmin.com/bootstrap/default/widget-data.html)
+23:41:42	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/[LINK] (from ableproadmin.com/bootstrap/default/member-mail-template.html)
+23:41:43	Error: 	"Forbidden" (403) at link ableproadmin.com/bootstrap/default/assets/images/product/ (from ableproadmin.com/bootstrap/default/help-ticket-details.html)
+23:41:43	Error: 	"Forbidden" (403) at link ableproadmin.com/bootstrap/default/assets/images/user/ (from ableproadmin.com/bootstrap/default/help-ticket-details.html)
+23:41:43	Warning: 	Retry after error -4 (Incorrect length (100066 Bytes, 253669 expected)) at link ableproadmin.com/bootstrap/default/assets/js/plugins/jquery-ui.min.js (from ableproadmin.com/bootstrap/default/school-dashboard.html)
+23:41:43	Warning: 	Retry after error 502 (Server Hangup) at link ableproadmin.com/bootstrap/default/assets/images/product/paypal.png (from ableproadmin.com/bootstrap/default/ecom-checkout.html)
+23:41:57	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/assets/plugins/ekko-lightbox/css/ekko-lightbox.min.css (from ableproadmin.com/bootstrap/default/email_read.html)
+23:41:57	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/assets/plugins/lightbox2-master/css/lightbox.min.css (from ableproadmin.com/bootstrap/default/email_read.html)
+23:41:57	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/assets/css/pages/pages.css (from ableproadmin.com/bootstrap/default/email_read.html)
+23:41:57	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/assets/plugins/ekko-lightbox/js/ekko-lightbox.min.js (from ableproadmin.com/bootstrap/default/email_read.html)
+23:41:57	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/assets/plugins/lightbox2-master/js/lightbox.min.js (from ableproadmin.com/bootstrap/default/email_read.html)
+23:42:22	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/cropped.jpg (from ableproadmin.com/bootstrap/default/image_crop.html)
+23:42:22	Warning: 	File not parsed, looks like binary: ableproadmin.com/bootstrap/default/assets/fonts/fa-regular-400.woff2
+23:42:22	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/assets/css/images/loading.gif (from ableproadmin.com/bootstrap/default/assets/css/plugins/lightbox.min.css)
+23:42:22	Error: 	"Not Found" (404) at link ableproadmin.com/bootstrap/default/hd-detail.html (from ableproadmin.com/bootstrap/default/help-ticket.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 11 seconds : 511 links scanned, 492 files written (27221322 bytes overall) [27342161 bytes received at 28158 bytes/sec], 48763 bytes transferred using HTTP compression in 3 files, ratio 31%, 7.6 requests per connection
+(11 errors, 23 warnings, 0 messages)
